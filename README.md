@@ -5,8 +5,9 @@
 The pieces are drawn in pixel art.
 A piece's possible moves are highlighted with a dark gray circle. All chess rules are implemented along with win/draw detection.
 
-![chess board image](./imgs/chess_board.png)
-
+<p align="center">
+  <img src="./imgs/chess_board.png" alt="chess board image" />
+</p>
 
 #### Requirements
 * OpenGL
